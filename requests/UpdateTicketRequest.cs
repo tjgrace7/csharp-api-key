@@ -1,0 +1,1 @@
+public record UpdateTicketRequest(TicketStatus status, int ticketId, TicketPriority? priority, string? note, TicketType? type);

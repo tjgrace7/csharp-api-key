@@ -1,0 +1,169 @@
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/appsettings.Development.json
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/appsettings.json
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/C# API_KEY.staticwebassets.endpoints.json
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/C# API_KEY
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/C# API_KEY.deps.json
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/C# API_KEY.runtimeconfig.json
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/C# API_KEY.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/C# API_KEY.pdb
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.csproj.AssemblyReference.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.AssemblyInfoInputs.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.AssemblyInfo.cs
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.csproj.CoreCompileInputs.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.MvcApplicationPartsAssemblyInfo.cs
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.MvcApplicationPartsAssemblyInfo.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/scopedcss/bundle/C# API_KEY.styles.css
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/staticwebassets.build.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/staticwebassets.development.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/swae.build.ex.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.csproj.Up2Date
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.dll
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/refint/C# API_KEY.dll
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.pdb
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/C# API_KEY.genruntimeconfig.cache
+/Users/roxystudio/Public/C# API_KEY/obj/Debug/net10.0/ref/C# API_KEY.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/dotnet-tools.json
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Azure.Core.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Azure.Identity.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Humanizer.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Identity.Client.Broker.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Identity.Client.NativeInterop.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.ClientModel.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.CodeDom.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Memory.Data.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/cs/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pl/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/tr/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/linux-x64/native/libmsalruntime.so
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/osx-arm64/native/msalruntime_arm64.dylib
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/osx-x64/native/msalruntime.dylib
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win-arm64/native/msalruntime_arm64.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win-x64/native/msalruntime.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/runtimes/win-x86/native/msalruntime_x86.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/roxystudio/Public/C# API_KEY/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll

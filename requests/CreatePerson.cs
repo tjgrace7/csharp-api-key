@@ -1,0 +1,1 @@
+public record CreatePersonRequest(string Username, string Password, string Role);

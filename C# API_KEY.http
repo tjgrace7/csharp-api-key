@@ -1,0 +1,6 @@
+@C__API_KEY_HostAddress = http://localhost:5062
+
+GET {{C__API_KEY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,1 @@
+public record CreateTicketRequest(TicketType type, string details);
